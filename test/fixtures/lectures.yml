@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lecturer: one
+  auditorium: one
+  name: MyString
+  date: 2017-03-19
+  time_start: 2017-03-19 13:55:43
+  time_end: 2017-03-19 13:55:43
+
+two:
+  lecturer: two
+  auditorium: two
+  name: MyString
+  date: 2017-03-19
+  time_start: 2017-03-19 13:55:43
+  time_end: 2017-03-19 13:55:43
