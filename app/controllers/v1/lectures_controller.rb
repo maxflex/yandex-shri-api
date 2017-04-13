@@ -1,6 +1,7 @@
 class V1::LecturesController < ApplicationController
   def index
     @lectures = Lecture.order(:date).all
+    # тут будут фильтры
     render :index, status: :ok
   end
 
